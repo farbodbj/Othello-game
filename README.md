@@ -11,6 +11,7 @@ if you want to know more about the rules of the game, how it's played and its st
 ## Dependencies
 
 For successfuly compiling the game you need SDL2 and SDL_image installed which are respectively for rendering graphics, loading images with various formats and using different fonts and rendering text. Note that there's no need to install SDL_ttf separately since it comes with SDL2.
+In this project a Makefile is used for linking needed libraries. There are other methoes available too but this was the most convinient for me. The code can be run in the terminal by simply using `make run` command in project directory.
 
 ### ubuntu
 
