@@ -47,7 +47,11 @@ When the user clicks on a square first the row and column are detected using the
 
 ## Game play
 
-Bellow you can see a video showing one complete game played: 
+Bellow you can see a video showing the game being played for a short time:
+
+
+
+https://user-images.githubusercontent.com/110523279/209427500-85d34d1f-93a9-4f8d-a05f-7f0df02259e4.mp4
 
 
 
