@@ -1,7 +1,6 @@
 /************
 By: Farbod Bijary
 GitHub: https://github.com/farbodbj 
-Email: Farbod.bjary82@gmail.com
 *************/
 
 //Standard needed libraries:
@@ -88,6 +87,9 @@ void InitBoard(void);
 
 //Scans int BOARD[8][8] and counts disks of each color
 void ScoreCounter();
+
+//detects draw or win
+int DetectEnd();
 
 int main(int argc, char *argv[]){
 
